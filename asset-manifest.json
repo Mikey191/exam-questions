@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exam-questions/static/css/main.e8236b40.css",
+    "main.js": "/exam-questions/static/js/main.f2343ef8.js",
+    "index.html": "/exam-questions/index.html",
+    "main.e8236b40.css.map": "/exam-questions/static/css/main.e8236b40.css.map",
+    "main.f2343ef8.js.map": "/exam-questions/static/js/main.f2343ef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8236b40.css",
+    "static/js/main.f2343ef8.js"
+  ]
+}
